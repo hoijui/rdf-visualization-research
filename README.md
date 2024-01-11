@@ -1,11 +1,17 @@
 # rdf-visualization-research
 
-- [viso-ontology](https://github.com/viso-ontology/viso-ontology)
-- [LDVM](https://github.com/ldvm)
+| Name | Open Source | License | Type | Link |
+| --- | --- | --- | --- | --- |
+| Fresnel Lenses | yes | W3C | ontology | <https://www.w3.org/2005/04/fresnel-info/> |
+| viso-ontology | yes | CC-BY-SA-4.0 | ontology | <https://github.com/viso-ontology/viso-ontology> |
+| LDVM | yes | CC-BY-SA-4.0 | ontology | <https://github.com/ldvm/vocabulary/blob/master/rdf/vocabulary/ldvm-vocab.ttl> |
+| LPVA/LDVMi | yes | Apache-2.0 | desktop-tool | <https://github.com/ldvm/LDVMi/tree/master/doc/assistant>, [paper](https://www.semanticscholar.org/paper/Towards-easier-visualization-of-linked-data-for-lay-Helmich-Potocek/daa41e15a1d2f6a4436051ff7c85719f33e42a84) |
+| G-OWL | ??? | ??? | ontology | [paper](https://r-libre.teluq.ca/2273/) |
+| VOWL | yes | MIT | web-tool | <http://vowl.visualdataweb.org/> |
+
 - Linked Data Maps [paper](http://ceur-ws.org/Vol-1472/IESD_2015_paper_2.pdf) [code](https://github.com/fabiovalse/dbpedia_atlas)
 - [Pubby](http://wifo5-03.informatik.uni-mannheim.de/pubby/)
 - [marbles](http://mes.github.io/marbles/)
-- [VOWL](http://vowl.visualdataweb.org/)
 - [RMLEditor](http://rml.io/RMLeditor.html)
 - [PoolParty](https://www.poolparty.biz/)
 - [Gephi SemanticWebImport plugin](https://github.com/gephi/gephi/wiki/SemanticWebImport)
@@ -35,6 +41,7 @@
 
 ## Non-RDF visualization
 
+- [cytoscape](https://js.cytoscape.org/)
 - [Walrus](https://www.caida.org/tools/visualization/walrus/)
 - [graphviz](http://www.graphviz.org/)
 - [theBrain](https://thebrain.com/)
@@ -42,6 +49,7 @@
 - [vega](https://vega.github.io/vega/)
 
 ## Papers
+
 - http://iswc2012.semanticweb.org/sites/default/files/paper_29.pdf
 - [Handling the Complexity of RDF Data: Combining List and Graph Visualization](https://interactivesystems.info/system/pdfs/80/original/19281.pdf?1560346032)
 - [Linked Open Data Visualization Revisited: A Survey](http://www.semantic-web-journal.net/system/files/swj937.pdf)
